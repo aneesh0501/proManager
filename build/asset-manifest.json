@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4707fd5b.chunk.css",
+    "main.js": "/static/js/main.a2c1f7b8.chunk.js",
+    "main.js.map": "/static/js/main.a2c1f7b8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5b8327fd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5b8327fd.js.map",
+    "static/js/2.07ae6fed.chunk.js": "/static/js/2.07ae6fed.chunk.js",
+    "static/js/2.07ae6fed.chunk.js.map": "/static/js/2.07ae6fed.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4707fd5b.chunk.css.map": "/static/css/main.4707fd5b.chunk.css.map",
+    "static/js/2.07ae6fed.chunk.js.LICENSE.txt": "/static/js/2.07ae6fed.chunk.js.LICENSE.txt",
+    "static/media/add_icon.376e9b6a.svg": "/static/media/add_icon.376e9b6a.svg",
+    "static/media/dashboard_icon.bc800f3b.svg": "/static/media/dashboard_icon.bc800f3b.svg",
+    "static/media/temple.c57f882d.svg": "/static/media/temple.c57f882d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b8327fd.js",
+    "static/js/2.07ae6fed.chunk.js",
+    "static/css/main.4707fd5b.chunk.css",
+    "static/js/main.a2c1f7b8.chunk.js"
+  ]
+}
